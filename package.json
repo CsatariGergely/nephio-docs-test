@@ -1,0 +1,20 @@
+{
+  "name": "nephio-docs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CsatariGergely/nephio-docs-test.git"
+  },
+  "keywords": [],
+  "author": "Gergely Csatari <gegrely.csatari@nokia.com>",
+  "license": "APACHE2",
+  "bugs": {
+    "url": "https://github.com/CsatariGergely/nephio-docs-test/issues"
+  },
+  "homepage": "https://github.com/CsatariGergely/nephio-docs-test#readme"
+}
