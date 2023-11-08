@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/CsatariGergely/nephio-docs-test/issues"
   },
-  "homepage": "https://github.com/CsatariGergely/nephio-docs-test#readme"
+  "homepage": "https://github.com/CsatariGergely/nephio-docs-test#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "postcss-cli": "^10.1.0"
+  }
 }
